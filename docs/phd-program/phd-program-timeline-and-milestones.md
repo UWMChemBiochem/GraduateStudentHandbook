@@ -106,5 +106,5 @@ You should plan to spend most of this semester writing your dissertation. Becaus
 
 The dissertation must follow the Graduate School's [thesis formatting guidelines]({{ URLThesisFormat }}). 
 
-The Graduate School’s [Dissertation Basecamp]({{ URLBasecamp }}) provides the resources you need for the journey of your dissertation and offers access to a {{ urlwritingretreat }}/[3-day Dissertation Writing Retreat] and Writing groups.
+The Graduate School’s [Dissertation Basecamp]({{ URLBasecamp }}) provides the resources you need for the journey of your dissertation and offers access to a [3-day Dissertation Writing Retreat]({{ URLWritingRetreat }}) and Writing groups.
 

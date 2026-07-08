@@ -1,5 +1,5 @@
 # Last update
-lastUpdate: June 25, 2026
+lastUpdate: July 8, 2026
 
 # Department Contacts
 gradChair: Prof. Woehl
@@ -8,46 +8,44 @@ deptAdm: Mr. Blackburn
 purchAgent: Ms. Hagen
 admAsst: Ms. Grober
 
-# Appearance of admonitions
-#icons: font
-
-#iconsdir: ../Media
-
 # URLs
+
+# General
 URLStudentResources: https://uwm.edu/graduateschool/students/
 URLAcadPolicies: https://uwm.edu/graduateschool/students/academic-policies-and-procedures/
-URLDoctGraduation: https://uwm.edu/graduateschool/students/academic-policies-and-procedures/doctoral-resources/doctoral-graduation/
 URLGradSchoolForms: https://uwm.edu/graduateschool/gradresources/forms-and-downloads/#h-for-students
+URLThesisFormat: https:uwm.edu/graduateschool/gradresources/thesis-and-dissertation-formatting/
+URLDeadlines: https:uwm.edu/graduateschool/gradresources/graduation-dates-and-deadlines/
+URLGSHandbook: https://uwm.edu/graduate-assistants/handbook/
+URLTAClassification: https:uwm.edu/graduate-assistants/handbook/#502
+URLCreditLoad: https://uwm.edu/graduate-assistants/handbook/appointments-and-benefits/enrollment-requirements/
+URLBasecamp: https://uwm.edu/graduateschool/students/academic-policies-and-procedures/doctoral-resources/dissertation-basecamp/
+URLWritingRetreat: https://uwm.edu/graduateschool/students/academic-policies-and-procedures/doctoral-resources/dissertation-writing-retreat/
+
+# Ph.D.-related
+URLDoctGraduation: https://uwm.edu/graduateschool/students/academic-policies-and-procedures/doctoral-resources/doctoral-graduation/
 URLPhDCredits: https://uwm.edu/graduateschool/students/academic-policies-and-procedures/doctoral-resources/doctoral-requirements/#a1
 URLDoctRequirements: https://uwm.edu/graduateschool/students/academic-policies-and-procedures/doctoral-resources/doctoral-requirements/
 URLDissDefense: https://uwm.edu/graduateschool/students/academic-policies-and-procedures/doctoral-resources/doctoral-requirements/#a2
 URLPhDTimelimit: https://uwm.edu/graduateschool/students/academic-policies-and-procedures/doctoral-resources/doctoral-requirements/#a17
 URLDissertatorCredits: https://uwm.edu/graduateschool/students/academic-policies-and-procedures/doctoral-resources/doctoral-requirements/#a5
 URLDoctoralResidency: https://uwm.edu/graduateschool/students/academic-policies-and-procedures/doctoral-resources/doctoral-requirements#a16
-URLBasecamp: https://uwm.edu/graduateschool/students/academic-policies-and-procedures/doctoral-resources/dissertation-basecamp/
-#urlwritingretreat: {urlacadpolicies}doctoral-resources/dissertation-writing-retreat/
 URLMilestones: https://uwm.edu/graduateschool/students/academic-policies-and-procedures/doctoral-resources/doctoral-milestones/
+
+# M.S.-related
 URLMastersRequirements: https://uwm.edu/graduateschool/students/academic-policies-and-procedures/masters-resources/masters-requirements/
 URLMastersTimeLimit: https://uwm.edu/graduateschool/students/academic-policies-and-procedures/masters-resources/masters-requirements/#Time-Limit
 URLMastersGraduation: https://uwm.edu/graduateschool/students/academic-policies-and-procedures/masters-resources/masters-graduation/
-
-URLThesisFormat: https:uwm.edu/graduateschool/gradresources/thesis-and-dissertation-formatting/
-URLDeadlines: https:uwm.edu/graduateschool/gradresources/graduation-dates-and-deadlines/
-
-URLGSHandbook: https://uwm.edu/graduate-assistants/handbook/
-URLTAClassification: https:uwm.edu/graduate-assistants/handbook/#502
-URLCreditLoad: https://uwm.edu/graduate-assistants/handbook/appointments-and-benefits/enrollment-requirements/
-
+# English
 URLMITAA: https://uwm.edu/english-language-academy/milwaukee-international-teaching-assistant-assessment/
 URLMITAAScores: https://uwm.edu/english-language-academy/milwaukee-international-teaching-assistant-assessment/#h-who-is-required-to-take-the-mitaa
 URLEnglishProficiency: https://uwm.edu/cie/international-admissions/graduate-application/english-proficiency-requirement/#a0
 
+# Safety
 URLBOSS: https://uwm.edu/boss/
-
 URLUWMPolice: https://uwm.edu/police/
 
+# Books
 URLACSSafety: https://www.acs.org/content/dam/acsorg/about/governance/committees/chemicalsafety/publications/safety-in-academic-chemistry-laboratories-students.pdf
 URLACSNotebook: https://wisconsin-uwm.primo.exlibrisgroup.com/permalink/01UWI_ML/1t3p5iu/alma995290663402124
 ACSStyleGuide: https://wisconsin-uwm.primo.exlibrisgroup.com/permalink/01UWI_ML/1t3p5iu/alma9917140643402124
-
-
