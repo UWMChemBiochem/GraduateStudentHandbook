@@ -72,6 +72,6 @@ Typically, you will register for:
 Students pursuing the Thesis Option should plan to spend the final semester writing their thesis. Because this process often takes more time than expected, plan accordingly! 
 
 !!! info
-You must provide a copy of your thesis to your thesis committee at least 7 days before your [thesis defense](completing-the-ms.md). 
+	You must provide a copy of your thesis to your thesis committee at least 7 days before your [thesis defense](completing-the-ms.md). 
 
 The thesis must follow the Graduate School's [thesis formatting guidelines]({{ URLThesisFormat }}). 
